@@ -1,0 +1,13 @@
+[package]
+name = "e"
+authors = ["Lucas Pütz"]
+description = "E"
+version = "0.0.1"
+edition = "2024"
+homepage = "https://github.com/vE5li/e"
+repository = "https://github.com/vE5li/e"
+readme = "README.md"
+license = "MIT"
+exclude = ["LICENSE.md", "rustfmt.toml"]
+
+[dependencies]
